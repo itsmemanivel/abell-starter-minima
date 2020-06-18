@@ -2,7 +2,7 @@
 
 
 
-![illustrations](assets/undraw_moving_forward_lhhd.png)
+<img  style="width:100%;height:100%;" src="assets/undraw_moving_forward_lhhd.png" />
 
 **Push()** function in array is used to append the data and mostly  it is used for  append the **string**.
 Because are not treated as  array in normal.
